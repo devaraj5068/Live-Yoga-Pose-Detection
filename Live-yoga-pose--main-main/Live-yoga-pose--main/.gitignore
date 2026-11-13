@@ -1,0 +1,31 @@
+# Python virtual environments
+venv/
+.venv/
+venv311/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+.idea/
+
+# Data files
+*.db
+*.sqlite3
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python packaging
+*.egg-info/
+.Python
+
+# Cache
+pip-log.txt
+pip-delete-this-directory.txt
